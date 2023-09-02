@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I am Chinmay Hegde👋
 
 <!--
 **chinmay007rh/chinmay007rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div align="center" id="badges">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn Badge"/>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+<div align="center" id="poster">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWY1NzYwMmhoeHRudXZpNWNmeHh0bmpuMDl2ZWZrZ2JxYzI0bjBvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" align="center" />
 </div>
 
 ---
